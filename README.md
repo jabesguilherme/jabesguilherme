@@ -3,7 +3,7 @@
 - 👋 Ola, eu sou Jabes G. Voltatoni
 - 👀 Eu sou interessado em programação e manutenção em hardware.
 - 🌱 Graduando em sistemas de informação.
-- 💞️ Me especializando em programação web, Front-end e Typescript.
+- 💞️ Me especializando em programação web, Front-end, react e Typescript.
 - 📫 Contato: voltatoni.si@gmail.com
 
 <div style="display: inline-block"><br>
@@ -25,7 +25,6 @@
 
 ##
 
-<div style="display: inline-block">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jabesvoltatoni&show_icons=true&theme=tokyonight"/>
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabesvoltatoni&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
