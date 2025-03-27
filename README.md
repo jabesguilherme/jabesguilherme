@@ -2,7 +2,7 @@
 
 - 👋 Ola, eu sou Jabes G. Voltatoni
 - 👀 Eu sou interessado em programação e manutenção em hardware.
-- 🌱 Graduando em sistemas de informação.
+- 🌱 Formado em sistemas de informação.
 - 💞️ Me especializando em programação web, Front-end, react e Typescript.
 - 📫 Contato: voltatoni.si@gmail.com
 
